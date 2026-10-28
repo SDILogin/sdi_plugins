@@ -1,0 +1,14 @@
+{
+  "name": "sdi-plugins",
+  "owner": {
+    "name": "Dmitry Selivanov"
+  },
+  "description": "Personal Claude Code plugins for Iroha 3 and CBDC Android work.",
+  "plugins": [
+    {
+      "name": "iroha",
+      "source": "./plugins/iroha",
+      "description": "Issue-board HTML dashboard from Iroha roadmap, status and spec goal files."
+    }
+  ]
+}

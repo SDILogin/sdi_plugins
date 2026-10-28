@@ -1,0 +1,8 @@
+{
+  "name": "iroha",
+  "version": "0.1.0",
+  "description": "Issue-board HTML dashboard from Iroha roadmap, status and spec goal files.",
+  "author": {
+    "name": "Dmitry Selivanov"
+  }
+}
