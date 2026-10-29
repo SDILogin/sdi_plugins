@@ -1,0 +1,9 @@
+{
+  "name": "plain-text",
+  "version": "0.1.0",
+  "description": "Shows the last Agent reply again in a side pane, written for Human with the plain-english rules",
+  "author": {
+    "name": "Dmitry Selivanov"
+  },
+  "types": "./types/index.d.ts"
+}

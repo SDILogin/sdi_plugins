@@ -9,6 +9,11 @@
       "name": "iroha",
       "source": "./plugins/iroha",
       "description": "Issue-board HTML dashboard from Iroha roadmap, status and spec goal files."
+    },
+    {
+      "name": "plain-text",
+      "source": "./plugins/plain-text",
+      "description": "Side pane that shows the last Agent reply again in simple English."
     }
   ]
 }
